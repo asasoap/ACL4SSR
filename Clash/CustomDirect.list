@@ -1,0 +1,12 @@
+PROCESS-NAME,EscapeFromTarko 
+PROCESS-NAME,EscapeFromTarkov.exe 
+PROCESS-NAME,EscapeFromTarkov_BE 
+PROCESS-NAME,EscapeFromTarkov_BE.exe 
+PROCESS-NAME,BEService 
+PROCESS-NAME,BEService.exe 
+PROCESS-NAME,BEService_eft
+PROCESS-NAME,BEService_eft.exe 
+PROCESS-NAME,parsecd
+PROCESS-NAME,parsecd.exe 
+PROCESS-NAME,BitComet 
+PROCESS-NAME,BitComet.exe 
